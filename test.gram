@@ -1,0 +1,12 @@
+start: top
+top: s end
+s: np vp
+np: dt nn | dt nn cp
+vp: md vb
+cp: in s
+dt: "the"
+nn: "idea"
+md: "will"
+vb: "suffice"
+in: "that"
+end: "."
