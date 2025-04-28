@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# .txt files
+*.txt
+
+# all .lark except test.lark
+*.lark
+!test.lark
